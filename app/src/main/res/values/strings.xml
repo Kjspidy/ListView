@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <array name="SuperHeros">
+        <item>Iron Man</item>
+        <item>Hulk </item>
+        <item>Captain America</item>
+        <item>Batman</item>
+    </array>
+</resources>
